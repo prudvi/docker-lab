@@ -1,0 +1,29 @@
+# Java
+*.class
+target/
+*.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+secrets/
+
+# SQL Server local data
+sqlserver-data/
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# Docker
+docker-data/
